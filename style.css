@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+    border: none;
+}
+
+
+.painel {
+width: 100%;
+display: flex;
+position: relative;
+justify-content: flex-start;
+align-items: center;
+background-color: #eee;}
+  
+ 
+ button{
+  width: 150px;
+  height: 30px;
+  cursor: pointer;
+  margin: 10px;
+  background-color: #ccc;
+  border-radius: 15px;
+  padding: 10px;
+ }
+
+ .carro{
+  width: 150px;
+  background-color: red;
+  height: 40px;
+ }
+
+ .carro2{
+  width: 150px;
+  background-color: rgb(55, 0, 255);
+  height: 40px;
+  margin-top: 10px;
+ } 
+
